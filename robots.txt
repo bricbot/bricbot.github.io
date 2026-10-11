@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bricbot.github.io/sitemap.xml
